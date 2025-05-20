@@ -61,7 +61,7 @@ if __name__ == "__main__":
     est3 = Estudiante("Ana García", "Medicina", 2)
 
     # Universidad
-    uni = Universidad("Universidad Técnica Nacional")
+    uni = Universidad("UMSA")
 
     # Agregar estudiantes a la universidad
     uni.agregar_estudiante(est1)

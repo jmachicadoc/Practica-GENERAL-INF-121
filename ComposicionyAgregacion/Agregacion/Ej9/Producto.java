@@ -27,7 +27,6 @@ public class Producto {
         this.precio = precio;
     }
 
-    // Método para mostrar la información del producto
     public void mostrar_info() {
         System.out.println("Producto: " + nombre);
         System.out.println("Precio: $" + precio);
