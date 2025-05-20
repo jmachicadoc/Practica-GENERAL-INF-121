@@ -26,6 +26,6 @@ public class Parte {
     }
 
     public void mostrarInfo() {
-        System.out.println("🔧 Parte: " + nombre + " - Peso: " + peso + " kg");
+        System.out.println("Parte: " + nombre + " - Peso: " + peso + " kg");
     }
 }

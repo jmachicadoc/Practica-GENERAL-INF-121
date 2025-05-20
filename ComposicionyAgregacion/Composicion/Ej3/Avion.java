@@ -34,9 +34,9 @@ public class Avion {
     }
 
     public void mostrarAvion() {
-        System.out.println("✈️ Modelo: " + modelo);
-        System.out.println("🏭 Fabricante: " + fabricante);
-        System.out.println("📦 Partes del avión:");
+        System.out.println("Modelo: " + modelo);
+        System.out.println("Fabricante: " + fabricante);
+        System.out.println("Partes del avión:");
         for (Parte p : partes) {
             p.mostrarInfo();
         }

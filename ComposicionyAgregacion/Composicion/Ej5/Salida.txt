@@ -1,0 +1,14 @@
+Equipo: Los Cracks FC
+Jugadores:
+Juan Pérez | #1 | Posición: Portero
+Habilidad Especial: Atajadas Felinas
+----------------------
+Carlos Torres | #4 | Posición: Defensa
+Habilidad Especial: Marcaje Hombre a Hombre
+----------------------
+Luis Ramírez | #8 | Posición: Mediocampista
+Habilidad Especial: Pases Láser
+----------------------
+Andrés Gómez | #9 | Posición: Delantero
+Habilidad Especial: Goles de Chilena
+----------------------

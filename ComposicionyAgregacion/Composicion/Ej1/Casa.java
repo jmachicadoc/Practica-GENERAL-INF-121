@@ -23,8 +23,8 @@ public class Casa {
     }
 
     public void mostrarCasa() {
-        System.out.println("🏠 Dirección: " + direccion);
-        System.out.println("📦 Habitaciones:");
+        System.out.println("Dirección: " + direccion);
+        System.out.println("Habitaciones:");
         for (Habitacion h : habitaciones) {
             h.mostrarInfo();
         }

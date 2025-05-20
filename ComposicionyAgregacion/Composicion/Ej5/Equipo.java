@@ -20,8 +20,8 @@ public class Equipo {
     }
 
     public void mostrarEquipo() {
-        System.out.println("🏟️ Equipo: " + nombre);
-        System.out.println("📋 Jugadores:");
+        System.out.println("Equipo: " + nombre);
+        System.out.println("Jugadores:");
         for (Jugador j : jugadores) {
             j.mostrarInfo();
             System.out.println("----------------------");

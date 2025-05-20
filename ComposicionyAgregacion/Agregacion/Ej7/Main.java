@@ -9,7 +9,7 @@ public class Main {
         Estudiante est3 = new Estudiante("Ana García", "Medicina", 2);
 
         // Crear universidad
-        Universidad uni = new Universidad("Universidad Técnica Nacional");
+        Universidad uni = new Universidad("UMSA");
 
         // Agregar estudiantes a la universidad
         uni.agregar_estudiante(est1);

@@ -10,6 +10,6 @@ public class Defensa extends Jugador {
 
     public void mostrarInfo() {
         super.mostrarInfo();
-        System.out.println("🛡️ Habilidad Especial: " + habilidadEspecial);
+        System.out.println("Habilidad Especial: " + habilidadEspecial);
     }
 }

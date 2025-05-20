@@ -19,6 +19,6 @@ public class Portero extends Jugador {
     @Override
     public void mostrarInfo() {
         super.mostrarInfo();
-        System.out.println("🧤 Habilidad Especial: " + habilidadEspecial);
+        System.out.println("Habilidad Especial: " + habilidadEspecial);
     }
 }

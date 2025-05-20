@@ -36,6 +36,6 @@ public class Jugador {
     }
 
     public void mostrarInfo() {
-        System.out.println("👤 " + nombre + " | #" + numero + " | Posición: " + posicion);
+        System.out.println("" + nombre + " | #" + numero + " | Posición: " + posicion);
     }
 }
